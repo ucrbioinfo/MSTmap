@@ -1,0 +1,114 @@
+population_type DH
+population_name LG
+distance_function kosambi
+cut_off_p_value 2.0
+no_map_dist 15.0
+no_map_size 0
+missing_threshold 1.00
+estimation_before_clustering no
+detect_bad_data yes
+objective_function COUNT
+number_of_loci 100
+number_of_individual 100
+
+locus_name	i0	i1	i2	i3	i4	i5	i6	i7	i8	i9	i10	i11	i12	i13	i14	i15	i16	i17	i18	i19	i20	i21	i22	i23	i24	i25	i26	i27	i28	i29	i30	i31	i32	i33	i34	i35	i36	i37	i38	i39	i40	i41	i42	i43	i44	i45	i46	i47	i48	i49	i50	i51	i52	i53	i54	i55	i56	i57	i58	i59	i60	i61	i62	i63	i64	i65	i66	i67	i68	i69	i70	i71	i72	i73	i74	i75	i76	i77	i78	i79	i80	i81	i82	i83	i84	i85	i86	i87	i88	i89	i90	i91	i92	i93	i94	i95	i96	i97	i98	i99	
+m54	A	A	A	A	A	A	A	B	A	A	B	B	B	B	A	A	A	U	A	A	B	A	B	A	A	A	B	B	A	A	A	B	B	U	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	U	B	A	B	B	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m36	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	B	B	B	A	A	U	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	U	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m16	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	U	A	A	B	A	
+m49	A	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	B	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	B	B	A	B	A	A	A	B	A	A	B	B	A	B	A	B	A	B	B	A	A	B	B	A	A	B	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	A	A	B	A	B	A	A	A	A	A	
+m68	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	A	A	A	B	A	B	A	A	A	A	A	U	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	A	A	A	A	A	A	B	A	A	B	A	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	B	B	A	A	A	A	B	B	A	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m78	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m25	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	A	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m85	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	B	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	U	B	A	B	B	A	B	A	B	B	A	B	U	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	A	B	B	
+m99	B	A	B	A	B	A	A	A	B	A	B	B	A	B	B	B	A	B	A	A	A	B	B	A	A	A	A	B	B	A	A	B	B	A	B	A	B	B	B	A	B	B	A	U	B	B	A	B	B	B	A	A	B	A	B	B	U	U	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	U	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	A	A	B	B	B	
+m29	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	U	A	A	B	B	A	A	A	A	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	U	A	U	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m79	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	U	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	B	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	A	B	A	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m82	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	A	B	A	B	U	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	A	A	B	B	
+m62	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	U	A	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m76	B	A	A	A	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	B	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	A	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m22	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	B	B	A	B	B	B	A	B	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m80	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	B	B	B	B	U	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	A	A	B	B	
+m18	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	B	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	A	B	A	A	A	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m60	A	A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	U	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m64	A	A	A	A	B	A	A	B	A	A	B	B	U	A	B	B	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	U	A	B	A	U	U	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	A	A	A	B	B	A	B	A	B	A	B	B	
+m21	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	B	B	A	B	B	B	A	B	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	A	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m6	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m56	A	A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	A	B	A	A	U	A	B	A	B	A	B	B	B	A	A	B	B	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	B	A	U	B	B	B	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m52	A	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	B	B	A	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	U	B	A	A	A	B	A	A	B	A	B	A	A	A	B	B	A	B	B	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	A	A	A	A	A	A	B	A	B	B	B	B	U	A	B	B	A	B	A	A	A	B	B	
+m57	A	A	A	A	B	A	A	B	A	A	B	B	A	B	U	A	A	B	A	U	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	A	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	U	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m84	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	A	B	B	
+m53	A	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	A	A	B	B	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m77	B	A	A	U	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m95	B	U	A	A	B	A	A	A	B	A	B	B	A	B	B	A	A	B	A	A	A	B	B	A	A	A	A	B	B	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	B	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	A	B	
+m39	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	B	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m4	A	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	U	B	B	B	B	U	A	A	A	A	B	B	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	
+m89	B	A	A	B	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	U	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	A	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m30	B	A	A	A	A	A	A	B	A	A	B	B	A	U	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	A	B	B	A	A	A	B	A	
+m63	A	A	A	A	B	B	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	B	A	B	A	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	A	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	B	B	A	A	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m69	B	A	A	A	B	A	A	B	A	A	B	B	A	A	B	U	U	B	A	A	B	A	A	A	A	A	A	A	U	A	A	B	A	B	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	B	A	B	A	A	B	A	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	B	B	A	B	A	A	B	A	A	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m1	A	A	A	A	A	B	A	B	A	A	A	B	A	B	A	U	A	B	B	A	A	B	B	A	A	B	B	A	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	A	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	B	A	B	B	A	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	A	B	U	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m58	A	A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	A	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	B	B	
+m34	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	U	B	U	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	B	B	B	A	B	B	A	B	A	A	B	A	A	B	B	A	
+m48	A	B	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	B	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	B	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m32	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	A	B	B	A	A	A	B	A	
+m9	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	A	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	B	A	B	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m23	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	U	A	A	A	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	B	B	A	B	B	B	A	B	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m67	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	U	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	A	B	A	B	B	
+m92	B	A	A	A	B	A	B	A	B	A	B	B	A	B	A	A	A	B	A	A	A	B	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	U	B	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m55	A	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	B	A	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	U	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	U	
+m15	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	A	A	A	U	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m43	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	U	B	B	A	B	B	A	B	U	A	A	B	A	
+m44	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	B	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m42	B	A	A	A	A	A	A	B	A	A	B	B	A	B	U	A	A	B	B	A	A	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	U	B	B	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	B	A	B	A	
+m27	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	U	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m33	B	A	A	A	B	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	U	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	A	B	B	A	A	A	B	A	
+m35	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	B	A	B	A	A	U	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m41	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	A	B	A	A	B	B	A	U	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m83	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	A	A	B	A	A	A	B	B	
+m81	A	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	U	A	A	B	A	A	A	A	A	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	A	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	U	B	B	A	A	A	A	A	B	B	
+m72	B	A	A	A	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	B	U	B	A	A	B	B	A	A	U	A	B	A	A	B	A	B	B	A	B	B	B	B	A	A	B	U	A	A	B	B	B	B	B	B	B	B	A	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m12	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	U	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m98	B	U	B	A	B	A	A	A	B	A	B	B	A	B	B	B	A	B	A	A	A	B	B	A	A	A	A	B	B	A	A	B	B	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	A	A	B	B	B	
+m46	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	B	B	B	A	B	B	A	B	A	A	A	B	A	
+m94	B	A	A	A	B	A	A	A	B	A	B	B	A	B	B	A	A	B	A	A	A	B	B	A	A	A	A	B	B	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	U	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m88	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m74	B	A	A	A	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	B	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	A	B	B	A	A	B	A	B	A	A	B	A	B	B	A	A	B	B	B	A	A	B	B	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m87	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	U	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	U	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	U	A	A	B	A	A	A	B	B	
+m93	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	B	B	A	B	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	A	B	
+m66	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	U	A	A	A	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	U	A	A	B	B	A	B	A	B	A	B	B	
+m61	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	U	A	A	A	B	A	A	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m96	B	A	A	A	B	A	A	A	B	A	B	B	A	B	B	A	A	B	A	A	B	B	B	A	A	A	A	B	B	A	A	B	B	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	B	B	A	A	A	B	B	A	B	B	B	B	A	A	U	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m37	B	B	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m40	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	U	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m11	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	U	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m17	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	U	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	A	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	A	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m86	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	B	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	B	B	B	B	B	B	B	B	A	A	B	B	B	B	A	B	B	A	B	A	A	B	A	A	A	B	B	
+m75	B	A	A	A	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	A	B	B	A	A	B	A	B	A	A	B	A	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	A	B	A	B	A	A	U	B	A	B	A	B	A	B	B	
+m26	B	A	A	B	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m24	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	B	B	B	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m59	A	A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	A	B	A	A	B	A	B	A	B	A	B	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	B	A	B	U	A	B	A	A	A	B	B	
+m8	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	A	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	B	A	A	B	A	
+m65	A	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	B	A	B	B	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	A	B	A	A	A	A	B	A	A	B	A	B	A	A	B	B	A	B	A	B	A	A	B	
+m5	A	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	A	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	U	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m90	B	U	A	A	U	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	A	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	U	A	B	B	B	
+m2	A	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	A	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	
+m14	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	U	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	U	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	A	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m73	B	A	A	A	B	A	A	A	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	B	A	A	A	B	A	A	B	B	A	A	B	A	B	A	A	B	A	B	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	A	A	B	B	A	B	A	B	A	B	B	
+m70	B	A	A	A	B	A	A	B	A	A	B	B	A	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	A	A	A	A	B	A	A	A	A	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	B	B	A	B	A	A	B	A	B	B	B	B	A	A	B	B	A	B	B	B	A	B	B	
+m45	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	U	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m19	B	A	A	A	A	A	A	B	A	A	A	A	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	B	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	A	B	A	A	A	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m10	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m47	U	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	B	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m7	B	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	B	B	B	A	A	B	B	A	A	B	A	A	B	B	B	B	A	A	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	U	B	B	B	A	B	B	A	A	A	B	A	
+m31	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	U	B	A	A	B	B	B	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	B	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	A	B	A	A	A	A	B	A	A	A	B	A	B	B	A	B	B	A	B	A	B	B	A	A	B	B	A	
+m38	B	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	B	A	A	B	B	A	B	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	A	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	A	
+m97	B	A	A	A	B	A	A	A	B	A	B	B	A	B	B	B	A	B	A	A	A	B	B	A	A	A	A	B	B	A	A	B	B	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	A	B	B	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m91	B	A	A	A	B	A	B	A	B	A	B	B	A	B	B	A	A	B	A	A	A	A	B	A	A	A	A	B	A	A	A	B	A	A	B	A	B	B	B	A	B	B	A	A	B	B	A	B	B	B	A	A	B	A	B	B	A	B	A	B	B	A	B	B	B	B	A	A	B	A	A	A	U	A	B	B	B	B	B	B	B	A	A	B	A	B	U	A	B	B	A	B	A	A	B	A	A	B	B	B	
+m20	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	A	B	B	A	B	A	B	B	B	B	B	A	B	U	B	B	B	A	B	A	A	B	A	B	B	B	B	B	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	A	B	A	A	A	B	B	B	U	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m50	A	A	A	A	A	A	A	B	A	A	B	B	A	B	A	A	A	B	A	A	B	B	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	B	A	B	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	B	A	A	A	B	B	
+m0	A	A	A	A	A	B	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	U	B	B	B	A	A	B	B	B	B	A	A	A	A	B	B	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	B	B	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m28	B	A	A	A	A	B	A	B	A	A	B	B	A	B	A	A	A	B	U	A	A	B	B	A	A	A	B	B	A	B	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	B	A	B	B	B	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	A	B	A	B	A	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m13	B	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	B	B	A	B	A	A	B	B	B	B	A	B	B	B	B	B	A	B	A	A	B	A	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	B	A	A	B	B	A	A	A	B	B	B	B	A	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	B	B	A	A	A	B	A	
+m51	A	A	A	A	A	A	A	B	A	A	B	U	A	B	A	A	A	B	U	A	B	A	B	A	B	A	B	B	A	A	A	A	B	A	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	A	B	A	A	A	B	B	A	B	B	B	B	A	B	B	U	B	A	A	B	B	A	A	B	B	B	B	B	A	A	A	A	A	A	B	A	B	B	B	B	B	A	B	B	A	B	A	A	A	B	B	
+m3	A	A	A	A	A	A	A	B	A	A	A	B	A	B	A	A	A	B	B	A	A	B	B	A	A	B	U	B	A	A	A	A	B	B	B	B	A	A	B	B	B	B	A	A	A	A	B	B	B	B	B	A	B	A	B	A	A	A	B	A	A	A	B	B	A	B	A	A	B	B	A	A	B	U	B	B	B	B	A	A	A	A	A	B	A	B	B	A	B	B	B	A	A	A	B	A	A	A	B	A	
+m71	B	A	A	A	B	A	A	B	A	A	B	B	B	A	B	A	A	B	A	A	B	A	B	A	A	A	A	A	A	A	A	B	A	B	B	B	A	B	B	A	B	B	A	A	A	B	A	A	B	B	A	A	B	A	B	A	A	B	A	B	B	A	B	B	B	A	A	A	B	B	A	A	B	B	B	B	B	B	B	U	B	A	A	B	A	B	B	U	B	A	A	B	B	A	B	A	B	A	B	B	
