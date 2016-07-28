@@ -7,7 +7,7 @@ Manual: http://www.mstmap.org/download.html
 
 Help: http://www.mstmap.org/help.html
 
-To execute: type "MSTmap example.txt output.txt"
+To execute: type "./MSTmap example.txt output.txt"
 
 MSTmap online at http://www.mstmap.org/
 
