@@ -3,7 +3,7 @@ A software tool that builds genetic linkage maps efficiently and accurately
 
 To download: type "git clone https://github.com/ucrbioinfo/MSTmap"
 
-To compile: type "make" (GCC is required)
+To compile: type "cd MSTmap" then "make" (g++ is required)
 
 Manual: http://www.mstmap.org/download.html
 
