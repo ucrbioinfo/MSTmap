@@ -8,8 +8,13 @@
 int main (int argc, char * const argv[]) {
 
     if (argc != 3) {
-        cout << "The usuage of the utility:" << endl;
-        cout << "\t MSTMap.exe input_file output_file" << endl;
+        cout << "mstmap v1.0 (2008, University of California, Riverside)" << endl;
+        cout << "\t Usage: ./mstmap.exe input_file output_file" << endl;
+	cout << "\t See example.txt for an example input file" << endl;
+	cout << "\t Questions: email Stefano Lonardi <stelo@cs.ucr.edu>" << endl;
+	cout << "\t Citation: Y.Wu, P.Bhat, T.J.Close, S.Lonardi" << endl;
+	cout << "\t\t   PLoS Genetics, 4(10):e1000212, 2008." << endl;
+	cout << "\t\t   doi:10.1371/journal.pgen.1000212" << endl;
         return 0;
     }
 

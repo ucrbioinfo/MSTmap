@@ -690,7 +690,7 @@ MSTOpt::Block_Chain MSTOpt::break_into_blocks(){
             for (int jj = bs; jj < ii; jj++) {
                 block_markers.push_back(current_order[jj]);
             }
-            Block crt_block = {true, block_markers, block_markers.size(), 
+            Block crt_block = {true, block_markers, static_cast<int>(block_markers.size()), 
                                block_markers[0], block_markers[block_markers.size() - 1],
                                -1, -1};
             bc.bs.push_back(crt_block);
@@ -704,7 +704,7 @@ MSTOpt::Block_Chain MSTOpt::break_into_blocks(){
         last_block_markers.push_back(current_order[jj]);
     }
     Block last_block = {true, last_block_markers, 
-                        last_block_markers.size(), 
+                        static_cast<int>(last_block_markers.size()), 
                         last_block_markers[0], last_block_markers[last_block_markers.size() - 1],
                         -1, -1};
     bc.bs.push_back(last_block);

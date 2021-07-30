@@ -75,8 +75,10 @@ void RIL_dist_cal::expected_CDEFG(double delta,
     }
     double epsilon = 0.000001;
     double total = 2 * CC + 2 * DD + 4 * EE + FF + GG;
-    assert(total < 1 + epsilon);
-    assert(total > 1 - epsilon);
+    //if ((total >= 1 + epsilon)||(total <= 1 - epsilon))
+    // cout << "total " << fixed << total << endl;
+    assert(total < 1 + epsilon); 
+    assert(total > 1 - epsilon); 
     C = CC; D = DD; E = EE; F = FF; G = GG;
 
 };
