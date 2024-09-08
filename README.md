@@ -3,7 +3,7 @@ A software tool that builds genetic linkage maps efficiently and accurately
 
 If you have CONDA: type ``conda install mstmap`` to download the executable
 
-If you want a Python library: type `pip install mstmap` and refer to https://github.com/ucrbioinfo/MSTmap-Python
+If you want the Python library: type `pip install mstmap` and refer to https://github.com/ucrbioinfo/MSTmap-Python
 
 To download the source code, type ``git clone https://github.com/ucrbioinfo/MSTmap``
 
