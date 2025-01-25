@@ -1,9 +1,11 @@
-# MSTmap
-A software tool that builds genetic linkage maps efficiently and accurately
+# MSTmap C++
+A software tool that builds genetic linkage maps efficiently and accurately.
 
-If you have CONDA: type ``conda install mstmap`` to download the executable
+This repository is for the C++ executable version of MSTmap. For the Python library, refer to https://github.com/ucrbioinfo/MSTmap-Python
 
-If you want the Python library: type `pip install mstmap` and refer to https://github.com/ucrbioinfo/MSTmap-Python
+For the R package, see https://rdrr.io/cran/ASMap/man/mstmap.cross.html
+
+If you have CONDA: type ``conda install mstmap`` to download the executable.
 
 To download the source code, type ``git clone https://github.com/ucrbioinfo/MSTmap``
 
