@@ -1,7 +1,7 @@
 # MSTmap C++
 A software tool that builds genetic linkage maps efficiently and accurately.
 
-- This repository is for the C++ executable version of MSTmap. For the online version. navigate to MSTmap online at http://www.mstmap.org/
+- This repository is for the C++ executable version of MSTmap. For the online version. navigate to MSTmap online at https://www.mstmap.org/
 
 - For the Python library, refer to https://github.com/ucrbioinfo/MSTmap-Python
 
